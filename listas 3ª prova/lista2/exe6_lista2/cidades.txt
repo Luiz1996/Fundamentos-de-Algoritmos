@@ -1,0 +1,5 @@
+Sarandi 100000
+Maringa 400000
+SaoPaulo 12110000
+RiodeJaneiro 6320000
+Curitiba 176500
